@@ -1,0 +1,23 @@
+- client/  # Frontend
+  - src/
+    - components/
+    - pages/
+    - App.js
+    - index.js
+  - package.json
+  - ...
+
+- server/  # Backend
+  - routes/
+  - controllers/
+  - models/
+  - config/
+  - server.js
+  - package.json
+  - ...
+
+- database/  # Database files
+  - ...
+
+- .env  # Environment variables
+- README.md
